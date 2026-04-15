@@ -1,6 +1,8 @@
 Código  
+
 public class Paciente { 
-    private double costoConsulta;     private int numeroConsultas; 
+    private double costoConsulta;    
+private int numeroConsultas; 
     private int prioridad;     public String nombre;     public String identificacion;     public String seguro; 
 
     public int edad; 
